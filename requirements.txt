@@ -1,0 +1,10 @@
+streamlit>=1.35.0
+pandas>=2.0.0
+numpy>=1.26.0
+plotly>=5.20.0
+wrds>=3.1.6
+fredapi>=0.5.1
+pandas-datareader>=0.10.0
+psycopg2-binary>=2.9.9
+sqlalchemy>=2.0.0
+yfinance>=0.2.40
