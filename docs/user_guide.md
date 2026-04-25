@@ -9,6 +9,8 @@ geometry: margin=1in
 
 Blue Eagle Macro & Sector Rotation Platform is a Streamlit application for macro timing, sector rotation analysis, analyst recommendation signals, and combined strategy backtesting.
 
+GitHub repository: https://github.com/littlerobben10-hue/new-version-macro-rotation-platform
+
 The platform is designed for:
 
 - Reviewing the current macro market regime.
@@ -32,7 +34,8 @@ The project includes the following main components:
 - `dashboard.py`, `theme.py`, and `visualization/`: Charting, layout, styling, and visualization helpers.
 - `requirements.txt`: Python package dependencies.
 - `.streamlit/secrets.toml.example`: WRDS credential template.
-- `*.ipynb`: Jupyter notebooks used during research and development.
+- `docs/*.ipynb`: Jupyter notebooks used during research and development.
+- `docs/user_guide.md` and `docs/blue_eagle_user_guide.pdf`: User guide source file and exported PDF.
 
 # 3. Data Sources
 

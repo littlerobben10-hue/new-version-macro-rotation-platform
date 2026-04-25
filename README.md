@@ -2,6 +2,8 @@
 
 Streamlit dashboard for macro timing, sector rotation signals, and combined portfolio backtests. The macro model uses public market and FRED data; the sector model requires WRDS access for CRSP, Compustat, and IBES data.
 
+GitHub repository: https://github.com/littlerobben10-hue/new-version-macro-rotation-platform
+
 ## Setup
 
 ```bash
